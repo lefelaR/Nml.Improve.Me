@@ -1,0 +1,9 @@
+E:\Nml.Improve.Me\Nml.Improve.Me\bin\Debug\netcoreapp3.1\Nml.Improve.Me.deps.json
+E:\Nml.Improve.Me\Nml.Improve.Me\bin\Debug\netcoreapp3.1\Nml.Improve.Me.dll
+E:\Nml.Improve.Me\Nml.Improve.Me\bin\Debug\netcoreapp3.1\Nml.Improve.Me.pdb
+E:\Nml.Improve.Me\Nml.Improve.Me\obj\Debug\netcoreapp3.1\Nml.Improve.Me.csprojAssemblyReference.cache
+E:\Nml.Improve.Me\Nml.Improve.Me\obj\Debug\netcoreapp3.1\Nml.Improve.Me.AssemblyInfoInputs.cache
+E:\Nml.Improve.Me\Nml.Improve.Me\obj\Debug\netcoreapp3.1\Nml.Improve.Me.AssemblyInfo.cs
+E:\Nml.Improve.Me\Nml.Improve.Me\obj\Debug\netcoreapp3.1\Nml.Improve.Me.csproj.CoreCompileInputs.cache
+E:\Nml.Improve.Me\Nml.Improve.Me\obj\Debug\netcoreapp3.1\Nml.Improve.Me.dll
+E:\Nml.Improve.Me\Nml.Improve.Me\obj\Debug\netcoreapp3.1\Nml.Improve.Me.pdb
